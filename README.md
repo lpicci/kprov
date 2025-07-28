@@ -1,6 +1,9 @@
 Il capitale pubblico nelle province italiane
 
 Dati utilizzati in: Lucio Picci (2002), "Le infrastrutture in Italia. Le differenze territoriali e l'efficienza della spesa", in L'Italia nella competizione globale - Regole per il mercato, a cura di Mario Baldassarri, Giampaolo Galli e Gustavo Piga, Edizioni il Sole 24 Ore, Milano.
+
+NOTA BENE: quanto segue vale sia per gli stock, sia per i flussi. I secondi si distinguono dai primi perché i nomi dei file sono in maiusolo, e ciasun nome termina con "_I".
+
 Ciascun file contiene i dati provinciali in ciascuna regione per le nove categorie di beni.
 
 Le categorie sono:
